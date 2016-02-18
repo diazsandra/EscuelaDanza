@@ -31,3 +31,21 @@ nav a {
 	text-shadow: 2px 2px 4px #E1BEE7; 
 	border-radius: 10px;
 }
+
+/* Contáctanos */
+
+#contactanos {
+	background-image: url("../img/shoes_1.jpg"); 
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 466px;
+}
+
+
+/*Footer*/
+
+footer {
+	background-color: #001F33;
+	padding: 2%;
+	text-align: left;
+}
