@@ -21,7 +21,7 @@ nav li {
 } 
 
 nav li:hover a {
-	background: #FCE4EC; 
+	background: #84B1CC; 
 }
 
 nav a {
@@ -48,4 +48,47 @@ footer {
 	background-color: #001F33;
 	padding: 2%;
 	text-align: left;
+}
+
+form {
+	width: 450px;
+	margin: auto;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+}
+
+h2 {
+	color: #001F33;
+	margin: 15px;
+	font-size: 30px;
+}
+
+input, textarea {
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 7px;
+	font-size: 18px;
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+
+#boton {
+	background-color: #001F33;
+	color: white;
+	padding: 20px;
+}
+
+#boton:hover {
+	cursor: pointer;
+}
+
+@media (max-width: 480px) {
+	form {
+		width: 100%;
+	}
 }
