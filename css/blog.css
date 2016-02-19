@@ -75,3 +75,13 @@
 	border-radius: 5px;
 	margin-top: 15px;
 }
+
+#galeria {
+	background-image: url("http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/01/Ballet-Desktop-Wallpapers-White-BAckground.jpg");
+	padding: 5% 30%;
+	background-size: cover;
+}
+
+.pdx {
+	padding-left: 18%;
+}
